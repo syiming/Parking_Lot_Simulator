@@ -1,0 +1,3 @@
+/Users/syiming/Downloads/h8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/syiming/Downloads/h8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/syiming/Downloads/h8/cmake-build-debug/CMakeFiles/h8.dir

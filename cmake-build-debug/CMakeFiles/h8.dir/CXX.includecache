@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/syiming/Downloads/h8/Vehicles.h
+basic.h
+/Users/syiming/Downloads/h8/basic.h
+
+/Users/syiming/Downloads/h8/basic.cpp
+iostream
+-
+GL/glut.h
+-
+basic.h
+/Users/syiming/Downloads/h8/basic.h
+
+/Users/syiming/Downloads/h8/basic.h
+math.h
+-
+
+/Users/syiming/Downloads/h8/ex2.cpp
+basic.h
+/Users/syiming/Downloads/h8/basic.h
+parkinglot.h
+/Users/syiming/Downloads/h8/parkinglot.h
+Vehicles.h
+/Users/syiming/Downloads/h8/Vehicles.h
+
+/Users/syiming/Downloads/h8/parkinglot.h
+iostream
+-
+Vehicles.h
+/Users/syiming/Downloads/h8/Vehicles.h
+ctime
+-
+cstdlib
+-
+
