@@ -1,14 +1,14 @@
 ### Part 1
-This Part Is A Simulation Where Random Vehicles (Van, Car, Motorbike, Bicycle) Enter And Exit The Parking Lot Over A Given Period Of Time.
-We Read Local Time Form The Computer. The Given Period Of Time Was Set To 100. The Price Depends On The Type Of Vehicle And Time Spent
+This part is a simulation where random vehicles (van, car, motorbike, bicycle) enter and exit the parking lot over a given period of time.
+We read local time form the computer. The given period of time was set to 100. The price depends on the type of vehicle and time spent.
 Output:
-Arrival Ticket Containing Time Of Arrival, Type Of The Vehicle, Some Information (Hint) On Where To And An Empty Slot.
-Departure Ticket Containing Time Spent In The Parking Lot, Type Of Vehicle, Price.
+Arrival ticket containing time of arrival, type of the vehicle, some information (hint) on where to and an empty slot.
+Departure ticket containing time spent in the parking lot, type of vehicle, price.
 
 ### Part 2
-This Part Is To Draw An Interstellar Parking Lot And Drive A Car Into A Free Slot. The Parking Lot Has Ten Slots. There Are 3 Kinds Of Vehicles, Ufo, Spacecraft, Car. Also A Rectangle Represents A Reserved Slot That Not Vehicles Can Park Into. Specifications: A Ufo Spins On Itself, A Spacecraft Continuously Zooms In And Out, A Rectangle Changes Color As Time Changes.
-There Are Several Parts Of Our Code.
-The Basic Figure-Rectangle, Trapezium, Circle, Half Circle And Lines.
-The Part That Draws All The Vehicles.
-The Part That Draw The Route Depends On The Slot The Vehicles Head On.
-The Part That Generate Random Vehicles And The Reserved Slots.
+This part is to draw an interstellar parking lot and drive a car into a free slot. The parking lot has ten slots. There are 3 kinds of vehicles, UFO, Spacecraft, Car. Also a rectangle represents a reserved slot that not vehicles can park into. Specifications: a UFO spins on itself, a spacecraft continuously zooms in and out, a rectangle changes color as time changes.
+There are several parts of our code.
+The basic figure-rectangle, trapezium, circle, half circle and lines.
+The part that draws all the vehicles.
+The part that draw the route depends on the slot the vehicles head on.
+The part that generate random vehicles and the reserved slots.
