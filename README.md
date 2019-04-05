@@ -1,19 +1,14 @@
-### Group Members
-(CHEN ZHIBO) 515020910276
-(LIN MUXING) 516370910078
-(SHI YIMING) 516370910108
-
 ### Part 1
-THIS PART IS A SIMULATION WHERE RANDOM VEHICLES (VAN, CAR, MOTORBIKE, BICYCLE) ENTER AND EXIT THE PARKING LOT OVER A GIVEN PERIOD OF TIME.
-WE READ LOCAL TIME FORM THE COMPUTER. THE GIVEN PERIOD OF TIME WAS SET TO 100. THE PRICE DEPENDS ON THE TYPE OF VEHICLE AND TIME SPENT
-OUTPUT:
-ARRIVAL TICKET CONTAINING TIME OF ARRIVAL, TYPE OF THE VEHICLE, SOME INFORMATION (HINT) ON WHERE TO AND AN EMPTY SLOT.
-DEPARTURE TICKET CONTAINING TIME SPENT IN THE PARKING LOT, TYPE OF VEHICLE, PRICE.
+This Part Is A Simulation Where Random Vehicles (Van, Car, Motorbike, Bicycle) Enter And Exit The Parking Lot Over A Given Period Of Time.
+We Read Local Time Form The Computer. The Given Period Of Time Was Set To 100. The Price Depends On The Type Of Vehicle And Time Spent
+Output:
+Arrival Ticket Containing Time Of Arrival, Type Of The Vehicle, Some Information (Hint) On Where To And An Empty Slot.
+Departure Ticket Containing Time Spent In The Parking Lot, Type Of Vehicle, Price.
 
 ### Part 2
-THIS PART IS TO DRAW AN INTERSTELLAR PARKING LOT AND DRIVE A CAR INTO A FREE SLOT. THE PARKING LOT HAS TEN SLOTS. THERE ARE 3 KINDS OF VEHICLES, UFO, SPACECRAFT, CAR. ALSO A RECTANGLE REPRESENTS A RESERVED SLOT THAT NOT VEHICLES CAN PARK INTO. SPECIFICATIONS: A UFO SPINS ON ITSELF, A SPACECRAFT CONTINUOUSLY ZOOMS IN AND OUT, A RECTANGLE CHANGES COLOR AS TIME CHANGES.
-THERE ARE SEVERAL PARTS OF OUR CODE.
-THE BASIC FIGURE-RECTANGLE, TRAPEZIUM, CIRCLE, HALF CIRCLE AND LINES.
-THE PART THAT DRAWS ALL THE VEHICLES.
-THE PART THAT DRAW THE ROUTE DEPENDS ON THE SLOT THE VEHICLES HEAD ON.
-THE PART THAT GENERATE RANDOM VEHICLES AND THE RESERVED SLOTS.
+This Part Is To Draw An Interstellar Parking Lot And Drive A Car Into A Free Slot. The Parking Lot Has Ten Slots. There Are 3 Kinds Of Vehicles, Ufo, Spacecraft, Car. Also A Rectangle Represents A Reserved Slot That Not Vehicles Can Park Into. Specifications: A Ufo Spins On Itself, A Spacecraft Continuously Zooms In And Out, A Rectangle Changes Color As Time Changes.
+There Are Several Parts Of Our Code.
+The Basic Figure-Rectangle, Trapezium, Circle, Half Circle And Lines.
+The Part That Draws All The Vehicles.
+The Part That Draw The Route Depends On The Slot The Vehicles Head On.
+The Part That Generate Random Vehicles And The Reserved Slots.
